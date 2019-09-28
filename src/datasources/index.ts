@@ -4,3 +4,4 @@
 // License text available at https://opensource.org/licenses/MIT
 
 export * from './ds.datasource';
+export * from './db.datasource';

@@ -1,1 +1,5 @@
 node_modules
+
+# I add db.datasource.json Example. Remove "Example" and set your config.
+# You can set the url property to a connection URL in datasources.json to override individual connection parameters such as host, user, and password.
+db.datasource.json
