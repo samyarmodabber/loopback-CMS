@@ -8,4 +8,5 @@ function __export(m) {
 }
 Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./ds.datasource"));
+__export(require("./db.datasource"));
 //# sourceMappingURL=index.js.map

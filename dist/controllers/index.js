@@ -8,4 +8,5 @@ function __export(m) {
 }
 Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./note.controller"));
+__export(require("./user.controller"));
 //# sourceMappingURL=index.js.map
